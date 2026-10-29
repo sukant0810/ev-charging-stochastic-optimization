@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+plotly
+scipy
+pulp==2.9.0
